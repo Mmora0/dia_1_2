@@ -1,0 +1,24 @@
+body{
+    background-color: #009cb78a;
+}
+h1{
+    color: #022083;
+}
+h2{
+    color: #f359b3;
+}
+.name{
+    color: #005aa4;
+}
+.text-center{
+    text-align: center;
+}
+.dia{
+
+}
+.img-center{
+    display: block;
+    margin: auto;
+    background-color: rgba(172, 240, 140, 0.61);
+
+}
